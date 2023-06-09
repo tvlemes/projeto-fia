@@ -1,0 +1,6 @@
+delta-spark==2.0.0
+pyspark==3.2.1
+py4j==0.10.9.3
+apache-airflow-providers-apache-spark==4.0.0
+apache-airflow-providers-google==10.1.0rc1
+apache-airflow-providers-microsoft-azure

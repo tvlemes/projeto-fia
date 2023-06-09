@@ -1,0 +1,5 @@
+# Time Zone
+https://www.w3resource.com/python/python-date-and-time.php
+
+# Trabalhando com Datas
+https://medium.com/data-hackers/como-manipular-datetime-no-python-578f07b72920

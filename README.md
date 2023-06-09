@@ -4,6 +4,7 @@
 
 Este projeto tem como objetivo principal a criação de um <b>Big Data</b> para apresentação no curso de Pós-Graduação de <b>Big Data</b> - <b>Data Engineering</b> da Faculdade FIA. Nele foram utilizados os seguintes softwares: Docker, Airflow, PostgreSQL, VSCode, Pyspark entre outros.
 
+![](/images/print.PNG)
 <hr>
 
 
